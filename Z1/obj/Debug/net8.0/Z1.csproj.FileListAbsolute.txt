@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\Zadania Kurs\Z1\obj\Debug\net8.0\Z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Zadania Kurs\Z1\obj\Debug\net8.0\Z1.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Zadania Kurs\Z1\obj\Debug\net8.0\Z1.AssemblyInfo.cs
+C:\Users\1\Desktop\Zadania Kurs\Z1\obj\Debug\net8.0\Z1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Zadania Kurs\Z1\bin\Debug\net8.0\Z1.exe
+C:\Users\1\Desktop\Zadania Kurs\Z1\bin\Debug\net8.0\Z1.deps.json
+C:\Users\1\Desktop\Zadania Kurs\Z1\bin\Debug\net8.0\Z1.runtimeconfig.json
+C:\Users\1\Desktop\Zadania Kurs\Z1\bin\Debug\net8.0\Z1.dll
+C:\Users\1\Desktop\Zadania Kurs\Z1\bin\Debug\net8.0\Z1.pdb
+C:\Users\1\Desktop\Zadania Kurs\Z1\obj\Debug\net8.0\Z1.dll
+C:\Users\1\Desktop\Zadania Kurs\Z1\obj\Debug\net8.0\refint\Z1.dll
+C:\Users\1\Desktop\Zadania Kurs\Z1\obj\Debug\net8.0\Z1.pdb
+C:\Users\1\Desktop\Zadania Kurs\Z1\obj\Debug\net8.0\Z1.genruntimeconfig.cache
+C:\Users\1\Desktop\Zadania Kurs\Z1\obj\Debug\net8.0\ref\Z1.dll
